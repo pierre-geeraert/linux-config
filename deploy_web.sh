@@ -13,7 +13,7 @@ pip install pushbullet-cli
 echo "pushbullet install"
 pb set-key
 
-sleep 10
+
 #pushbullet end
 
 

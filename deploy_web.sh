@@ -1,12 +1,19 @@
 #!/bin/bash
 
 
+
+
+
+
 #begin pushbullet
 echo "beginning"
-apt-get install python-pip
-pip install pushbullet.py
+apt-get install python-pip -y
+echo "python pip install"
+pip install pushbullet-cli
+echo "pushbullet install"
 pb set-key
 
+sleep 10
 #pushbullet end
 
 
@@ -23,6 +30,6 @@ echo "<?php echo "hello world"; ?>" >> index.php
 rm index.html
 pb push "end conf php"
 service apache2 restart
-apt-get install php5-pgsql
+apt-get install php5-pgsql -y
 pb push "php psql end"
 #end web server

@@ -2,7 +2,7 @@
 sudo -s
 
 #begin pushbullet
-
+echo "beginning"
 apt-get install python-pip
 pip install pushbullet.py
 pb set-key

@@ -16,7 +16,7 @@ sudo apt-get install git
 git init
 git clone https://github.com/pierre-geeraert/linux-config.git
 cd linux-config
-./deploy_web.sh 
+sudo ./deploy_web.sh 
 ```
 and enter your root password and after your pushbullet ID to be notified about all steps during install
 

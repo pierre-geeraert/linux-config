@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo -s
+
 
 #begin pushbullet
 echo "beginning"

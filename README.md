@@ -20,3 +20,7 @@ sudo ./deploy_web.sh
 ```
 and enter your root password and after your pushbullet ID to be notified about all steps during install
 
+Interesting website:
+
+https://www.raspberrypi.org/learning/lamp-web-server-with-wordpress/worksheet/
+

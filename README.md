@@ -1,4 +1,4 @@
-# Create your Linux
+#  Create your Linux
 
 I want to create a script whe help to install all interesants software in your OS to appropriate your computer.
 

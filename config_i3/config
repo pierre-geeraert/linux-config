@@ -8,7 +8,7 @@
 
 exec_always --no-startup-id feh --bg-scale ~/Images/b_1_q_0_p_0.jpg
 exec_always --no-startup-id sh dual_screen-haut.sh
-exec_always --no-startup-id python ~/Téléchargements/NGProxy/NGproxy.py pierre.geeraert@viacesi.fr Palyp557
+exec_always --no-startup-id python ~/Téléchargements/NGProxy/NGproxy.py pierre.geeraert@viacesi.fr MDP
 
 # i3 config file (v4)
 #

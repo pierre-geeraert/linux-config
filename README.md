@@ -7,7 +7,7 @@ I want to create a script whe help to install all interesants software in your O
 
 ## Deployment
 
-
+@pierre-geeraert
 The project is very easy to deploy :
 
 You need git:
